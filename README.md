@@ -37,6 +37,13 @@ Color-coded visuals for better understanding
 ## Dashboard
 <img src="covid-19%20dashboard.png" width="600">
 
+##  Insights
+          Maharashtra, Kerala, and Karnataka reported higher case counts overall
+          Recovery rates gradually improved over time
+          Testing surge correlated with better case detection
+          Clear wave patterns visible in line chart trends
+
+
 
 
 
