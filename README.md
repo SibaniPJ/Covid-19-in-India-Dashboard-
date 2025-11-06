@@ -35,7 +35,12 @@ Color-coded visuals for better understanding
 
 
 ## Dashboard
-https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/Screenshot%20(172).png
+<img src="covid-19%20dashboard.png" width="600">
+
+
+
+
+
 
 
 
