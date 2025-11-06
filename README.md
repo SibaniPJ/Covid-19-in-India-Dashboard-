@@ -17,16 +17,19 @@ This dashboard helps users quickly analyze:
 
  Data Sources
 I have used 6 different datasets (CSV format) containing:
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/AgeGroupDetails.csv">dataset </a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/ICMRTestingLabs.csv"></a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/IndividualDetails.csv"></a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/StatewiseTestingDetails.csv"></a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_19_india.csv"></a>
+=<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_vaccine_statewise.csv"></a>
 
-          Daily case reports
 
-          State-wise case distribution
 
-          Recovery and death counts
 
-          Testing updates
 
-          Vaccination progress (if included)
 
-          Population reference data for comparison
+
+
+
 
