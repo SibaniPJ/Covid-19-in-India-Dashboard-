@@ -15,17 +15,30 @@ This dashboard helps users quickly analyze:
 
          Visual interaction through filters and highlights
 
- Data Sources
+## Data Sources
 I have used 6 different datasets (CSV format) containing:
--<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/AgeGroupDetails.csv">dataset </a>
--<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/ICMRTestingLabs.csv"></a>
--<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/IndividualDetails.csv"></a>
--<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/StatewiseTestingDetails.csv"></a>
--<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_19_india.csv"></a>
-=<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_vaccine_statewise.csv"></a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/AgeGroupDetails.csv">Dataset1 </a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/ICMRTestingLabs.csv">Dataset2</a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/IndividualDetails.csv">Dataset3</a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/StatewiseTestingDetails.csv">Dataset4</a>
+-<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_19_india.csv">Dataset5</a>
+=<a href="https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/covid_vaccine_statewise.csv">Dataset6</a>
+
+## Key Features of the Dashboard
+Multiple Line Chart with dual-axis to compare trends (Confirmed vs Recovered vs Deaths)
+Interactive Filters for:
+    Date Range
+    State Selection
+Map Visualization to compare severity among states
+KPIs / Summary Cards showing high-level statistics
+Color-coded visuals for better understanding
 
 
-Dashboard
+## Dashboard
+https://github.com/SibaniPJ/Covid-19-in-India-Dashboard-/blob/main/Screenshot%20(172).png
+
+
+
 
 
 
